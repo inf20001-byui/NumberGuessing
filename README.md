@@ -3,10 +3,12 @@
 
 This is a program will automatically pick a number between 1 and 100 and the user will have to guess the number.  As the user guesses, they will be told if the number they guessed is lower or higher than the actual number and then will be given the opportunity to guess again until they get it correct.  It will also show the user the numbers guess in order to that point.
 
+This program should be excuted from Main.java
+
 I wrote this program to demonstrate the skills I am learning as I study Java.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=27u8A0kSQ14)
 
 # Development Environment
 

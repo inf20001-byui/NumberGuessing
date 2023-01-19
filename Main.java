@@ -30,7 +30,8 @@ public class Main extends Color{ // Using extends to inherit the Color class fro
         // Create an ArrayList to store the numbers guessed
         ArrayList<Integer> numbersGuessed = new ArrayList<Integer>(); 
 
-        //Used for testing to show the random number - remove before using!
+        // Used for testing to show the random number 
+        // REMOVE BEFORE USE!
         System.out.println(randomNumber); 
 
         // Initialize a Scanner object from the Scanner class
@@ -48,7 +49,7 @@ public class Main extends Color{ // Using extends to inherit the Color class fro
         System.out.println(YELLOW + "Good luck, you're going to need it!" + RESET);
         System.out.println();        
 
-        // Loop to keep the game going until the user guesses the correct number
+        // Loop to keep the game going until the user guesses the correct number and then asks if they want to play again
         do {
             System.out.println();
             System.out.print(RESET + "What number do you want to guess? ");
